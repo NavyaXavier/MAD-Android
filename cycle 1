@@ -1,4 +1,6 @@
 program 1
+Design a login page
+
 activity_main.xml
 
 <LinearLayout android:layout_width="match_parent"
@@ -64,7 +66,11 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
+
 program 2
+change the content in the textfield on a button click
+
+
 activty_main.xml
 
 <LinearLayout
@@ -104,7 +110,11 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
+
 program 3
+Read a content from edit text and print it in a text view.
+
+
 activty_main.xml
 <LinearLayout android:layout_width="match_parent"
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -155,7 +165,11 @@ Button btn1;
         tv.setText(content);
     }
 }
+
+
 program 4
+change the background color on a button click
+
 activity_main.xml
 <LinearLayout
     android:layout_width="match_parent"
@@ -201,6 +215,8 @@ public class MainActivity extends AppCompatActivity {
 }
 
 program 5
+create a simple calculator
+
 activity_main.xml
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
